@@ -1,6 +1,8 @@
 # react-native-opener-demo
 An opener animation created with a vector mask
 
+![](./media/preview-android.gif)
+
 ## How to run the project?
 
 Download and clone the repository. Install dependencies and run the project:
